@@ -26,7 +26,7 @@ pip install cryptography
 Execute the main script:
 
 ```bash
-python aes_decrypt.py
+python solve.py
 ```
 
 The program will automatically decrypt all CBC and CTR ciphertexts from the provided dataset and display plaintext outputs for **Questions 1–4**.
